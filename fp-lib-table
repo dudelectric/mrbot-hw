@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name microsd)(type KiCad)(uri E:/myprojects/mda-electronics/MDA-clients/atmosfer/ATM-PROJECTS-MAIN/RFID_game_controller_lcd/PCB/microsd)(options "")(descr ""))
+  (lib (name Nokia_lcd)(type KiCad)(uri ${KIPRJMOD}/Nokia_lcd.pretty)(options "")(descr ""))
+  (lib (name JDY-08)(type KiCad)(uri ${KIPRJMOD}/JDY-08.pretty)(options "")(descr ""))
+  (lib (name Batteries)(type KiCad)(uri E:/myprojects/mda-electronics/MDA-project/LIB-KICAD/SparkFun-KiCad-Libraries-master/Footprints/Batteries.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Audio_IC)(type Legacy)(uri "${KIPRJMOD}/Audio IC.lib")(options "")(descr ""))
+  (lib (name nokia_5110-3310_lcd)(type Legacy)(uri ${KIPRJMOD}/nokia_5110-3310_lcd.lib)(options "")(descr ""))
+  (lib (name jdy-08)(type Legacy)(uri ${KIPRJMOD}/jdy-08.lib)(options "")(descr ""))
+  (lib (name mrbot-rescue)(type Legacy)(uri ${KIPRJMOD}/mrbot-rescue.lib)(options "")(descr ""))
+)
